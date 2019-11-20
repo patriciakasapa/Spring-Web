@@ -1,13 +1,13 @@
-package turntabl.io.north;
+package io.turntabl.SpringWeb;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class NorthApplication {
+public class SpringWebApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(NorthApplication.class, args);
+		SpringApplication.run(SpringWebApplication.class, args);
 	}
 
 }
