@@ -1,8 +1,8 @@
-package io.turntabl.controllers;
+package io.turntabl.SpringWeb.controllers;
 
 public class Numbers{
 
-    int value;
+    private int value;
 
 
     public Numbers() {
